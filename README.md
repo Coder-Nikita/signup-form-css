@@ -40,7 +40,7 @@ A beautiful, fully responsive sign-up form built using HTML and modern CSS techn
 
 ## 📸 Preview
 
-*(Add a screenshot of the signup page here if needed)*
+![Screenshot (23)](https://github.com/user-attachments/assets/497ce874-3203-4108-be99-7de0ab9d17f7)
 
 ---
 
